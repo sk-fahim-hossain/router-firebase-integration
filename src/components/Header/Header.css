@@ -1,0 +1,14 @@
+.header nav a{
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: goldenrod;
+}
+.header nav a:hover{
+    font-weight: bold;
+}
+.header{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
